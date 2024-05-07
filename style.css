@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+:root{
+    --preto: #010801;
+    --azul-forte: #030661;
+    --branco: #f9f5f5;
+    --verde: #388005;
+    --vermelho: #9f0808;
+    --texto-titulo: "Archivo", sans-serif;
+    --texto-corpo: "Archivo", sans-serif;
+
+}
