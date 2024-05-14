@@ -15,3 +15,14 @@
     --texto-corpo: "Archivo", sans-serif;
 
 }
+
+body{
+  background-color: var(--azul-forte);
+  color: var(--verde);
+  font-family: var(--fonte-corpo);
+}
+
+.titulo-principal{
+  font-family: var(--fonte-titulo);
+}
+
